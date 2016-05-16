@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Young Model]]></title>
         <description><![CDATA[Young Model]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/victoria-roe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 17:02:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 17:04:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/victoria-roe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Model]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43972f56-24f9-4319-a30f-503926ae5086.png" alt="" title="">]]></description>
-            <link>undefined265df3f0-ee62-42bc-b7cf-50b5d804ae8c/index.html</link>
+            <link>https://thegrid.ai/victoria-roe/265df3f0-ee62-42bc-b7cf-50b5d804ae8c/index.html</link>
             <guid isPermaLink="false">265df3f0-ee62-42bc-b7cf-50b5d804ae8c</guid>
-            <pubDate>Mon, 16 May 2016 17:02:16 GMT</pubDate>
+            <pubDate>Mon, 16 May 2016 17:04:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
