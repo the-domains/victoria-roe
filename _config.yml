@@ -1,0 +1,28 @@
+name: Victoria Roe
+favicon: null
+layout_spectrum: 0.33769267657771707
+typography_spectrum: 0.85275106318295
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.948705313494429
+  lightness: 0.2947134592104703
+  saturation: 0.8507895406801254
+  rhythmicContrast: 0.7220314864534885
+purpose: []
